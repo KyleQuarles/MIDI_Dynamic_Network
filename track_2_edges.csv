@@ -1,0 +1,4 @@
+onset,terminus,tail,head,onset.censored,terminus.censored,duration,edge.id
+3840,7679,71,72,FALSE,FALSE,3839,2
+7680,11519,72,72,FALSE,FALSE,3839,1
+11520,15359,72,72,FALSE,FALSE,3839,1
